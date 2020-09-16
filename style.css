@@ -1,0 +1,72 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 75px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gray;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+input {
+    width: 100%;
+}
+
+select {
+    width: 100%;
+}
+
+.index {
+    display: flex;
+}
+
+.wrapper {
+    width: 50%;
+}
+
+.image {
+    width: 100%;
+}
+
+.contents {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 50%;
+    align-content: center;
+}
+
+.form {
+    font-weight: bold;
+}
+
+.name_form {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    color: aliceblue;
+    background-color: black;
+    box-shadow: none;
+    
+}
+
